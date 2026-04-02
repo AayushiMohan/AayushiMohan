@@ -1,6 +1,6 @@
 <h2>⚡Byte by byte, Creating my space.</h2>
 
-<h3>🌐 Connect with Me</h3>
+<h3>🌐Socials:</h3>
 <p>
   <a href="https://www.linkedin.com/in/aayushimohan/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
