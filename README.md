@@ -1,4 +1,4 @@
-⚡Byte by byte, Creating my space.
+<h2>⚡Byte by byte, Creating my space.</h2>
 
 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayushimohan/)
