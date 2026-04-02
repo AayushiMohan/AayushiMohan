@@ -8,7 +8,7 @@ https://linkedin.com/in/aayushimohan
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,typescript" /><br>
   <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,mongodb,mysql,git" /><br>
-  
+  <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
