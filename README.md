@@ -1,9 +1,9 @@
 <h2>⚡Byte by byte, Creating my space.</h2>
 
-<h2>🌐Socials:</h2>
-<p>![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayushimohan/)</p>
+🌐Socials:
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayushimohan/)
 
-<h2>💻Tech Stack</h2>
+<h3>💻Tech Stack</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,typescript" /><br>
   <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,mongodb,mysql,git" /><br>
