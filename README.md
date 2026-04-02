@@ -1,7 +1,7 @@
 ⚡Byte by byte, Creating my space.
 
 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://linkedin.com/in/aayushimohan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayushimohan/)
 
 💻 Tech Stack:
 <h2>🚀 Skills</h2>
