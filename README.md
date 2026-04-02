@@ -4,7 +4,7 @@
 <p>
   <a href="https://www.linkedin.com/in/aayushimohan/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-  </a>
+  </a> <br>
   <a href="https://www.instagram.com/woomanyawwrr?igsh=MXRlNGxtNWUzZnM3ag==">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white"/>
   </a>
