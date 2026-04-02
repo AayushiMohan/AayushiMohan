@@ -4,5 +4,9 @@
 https://linkedin.com/in/aayushimohan
 
 💻 Tech Stack:
-## 🚀 Skills
-![Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,typescript,react,tailwind,nodejs,mongodb,numpy,pandas,matplotlib,streamlit,mysql,git,github,vscode&perline=8)
+<h2>🚀 Skills</h2>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,typescript" /><br>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,mongodb,numpy,pandas" /><br>
+  <img src="https://skillicons.dev/icons?i=matplotlib,streamlit,mysql,git,github,vscode" />
+</p>
