@@ -1,5 +1,12 @@
 <h2>⚡Byte by byte, Creating my space!</h2>
 
+<h3>✨My Portfolio:</h3>
+<p>
+   <a href="https://am-portfolio-lilac.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
 <h3>🌐Socials:</h3>
 <p>
   <a href="https://www.linkedin.com/in/aayushimohan/">
@@ -8,13 +15,6 @@
 
   <a href="https://www.instagram.com/woomanyawwrr?igsh=MXRlNGxtNWUzZnM3ag==">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
-<h3>✨My Portfolio:</h3>
-<p>
-   <a href="https://am-portfolio-lilac.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white"/>
   </a>
 </p>
 
