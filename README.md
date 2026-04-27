@@ -1,4 +1,5 @@
 <h2>⚡Byte by byte, Creating my space!</h2>
+<p>Hi, I'm Aayushi, a learner and aspiring web developer. I enjoy building new projects, finding solutions to problems, and understanding how things work behind the scenes. Exploring full-stack development and applying machine learning concepts to practical applications, while keeping up with the evolving AI landscape.</p>
 
 <h3>✨My Portfolio:</h3>
 <p>
