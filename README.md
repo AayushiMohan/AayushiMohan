@@ -32,9 +32,9 @@
 
 ## GitHub Stats
 
-![Aayushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AayushiMohan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Aayushi's GitHub Stats](https://readme-stats-one-chi.vercel.app/api?username=AayushiMohan&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AayushiMohan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Top Languages](https://readme-stats-one-chi.vercel.app/api/top-langs/?username=AayushiMohan&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AayushiMohan&theme=tokyonight&hide_border=true)
 
