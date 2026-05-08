@@ -38,6 +38,3 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AayushiMohan&theme=tokyonight&hide_border=true)
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=AayushiMohan&color=6c8aff&style=flat)
