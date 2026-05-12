@@ -17,17 +17,7 @@
 </p>
 <p>
   <a href="mailto:aayushimohan118@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact Me-4CAF50?style=for-the-badge&logo=minutemailer&logoColor=white"/>
-  </a>
-</p>
-<p>
-  <a href="mailto:aayushimohan118@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aayushimohan118@gmail.com-0A66C2?style=for-the-badge&logo=maildotru&logoColor=white"/>
-  </a>
-</p>
-<p>
-  <a href="mailto:aayushimohan118@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-ME-black?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EMAIL-ME-black?style=for-the-badge&logo=maildotru&logoColor=white"/>
   </a>
 </p>
 
