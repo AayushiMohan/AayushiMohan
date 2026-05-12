@@ -17,7 +17,7 @@
 </p>
 <p>
   <a href="mailto:aayushimohan118@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-ME-black?style=for-the-badge&logo=maildotru&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EMAIL-black?style=for-the-badge&logo=maildotru&logoColor=white"/>
   </a>
 </p>
 
