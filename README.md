@@ -2,7 +2,7 @@
 <p>CS Undergrad | Full Stack & ML | SWE Aspirant</p>
 <p>Hi, I'm Aayushi, I enjoy building new projects, finding solutions to problems, and understanding how things work behind the scenes. Exploring full-stack development and applying machine learning concepts to practical applications, while keeping up with the evolving AI landscape.</p>
 
-<h3>✨My Portfolio:</h3>
+<h3>My Portfolio:</h3>
 <p>
    <a href="https://am-portfolio-lilac.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white"/>
@@ -13,6 +13,11 @@
   <p>
   <a href="https://www.linkedin.com/in/aayushimohan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+<p>
+  <a href="mailto:aayushimohan118@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
