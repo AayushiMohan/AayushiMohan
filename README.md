@@ -32,7 +32,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="40"/>
 </p>
+<p align="left">
 
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript" /><br>
+
+  <!-- Web & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind" /><br>
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br>
+
+  <!-- ML / Data Science -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" /><br>
+
+  <!-- ML / AI / Apps -->
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="40"/>
+
+</p>
 ---
 
 ## GitHub Stats
