@@ -1,5 +1,5 @@
 <h2>⚡Byte by byte, Creating my space!</h2>
-<p>CS Undergrad | Full Stack & ML | SWE Aspirant | GSSoC 2026 </p>
+<p> Full Stack & ML | SWE Aspirant | GSSoC 2026 </p>
 <p>Hi, I'm Aayushi, I enjoy building new projects, finding solutions to problems, and understanding how things work behind the scenes. Exploring full-stack development and applying machine learning concepts to practical applications, while keeping up with the evolving AI landscape.</p>
 
 <h3>👤My Portfolio:</h3>
