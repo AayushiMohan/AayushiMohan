@@ -41,11 +41,11 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AayushiMohan&theme=tokyonight&hide_border=true)
 
-<h3>🏅 Open Source:</h3>
+<h3>💫 Open Source:</h3>
 <p>
   <img src="https://img.shields.io/badge/GSSoC-2026-orange?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
+<h3>🌻 Profile Views</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AayushiMohan&label=Profile+Views&color=blueviolet&style=flat"/>
 </p>
@@ -65,6 +65,6 @@
 </p>
 
 <h3>🏆 GitHub Trophies:</h3>
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=AayushiMohan&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
