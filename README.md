@@ -51,6 +51,7 @@
   <img src="https://img.shields.io/badge/GSSoC%202026-5%20Badges%20Earned-orange?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Smart%20India%20Hackathon%202024-Participant-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+<li>📄 <b>Research Paper Accepted</b> — AI Driven Intrusion Detection Systems Using Deep Learning | IJARESM | Impact Factor: 9.175</li>
 
 <h3>Profile Views:</h3>
 <p align="left">
