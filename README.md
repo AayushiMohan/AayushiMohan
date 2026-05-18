@@ -41,18 +41,18 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AayushiMohan&theme=tokyonight&hide_border=true)
 
-<h3>💫 Open Source:</h3>
+<h3>Open Source:</h3>
 <p>
   <img src="https://img.shields.io/badge/GSSoC-2026-orange?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<h3>🏅 Achievements:</h3>
+<h3>Achievements:</h3>
 <p>
   <img src="https://img.shields.io/badge/GSSoC%202026-5%20Badges%20Earned-orange?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Smart%20India%20Hackathon%202024-Participant-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<h3>👤 Profile Views:</h3>
+<h3>Profile Views:</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AayushiMohan&label=Profile+Views&color=blueviolet&style=flat"/>
 </p>
@@ -60,7 +60,7 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=AayushiMohan&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
-<h3>📊 Contribution Activity:</h3>
+<h3>Contribution Activity:</h3>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AayushiMohan&theme=tokyo-night&hide_border=true"/>
 <h3>💬 Dev Quote:</h3>
 <p align="center">
