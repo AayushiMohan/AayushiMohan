@@ -50,13 +50,6 @@
   <img src="https://komarev.com/ghpvc/?username=AayushiMohan&label=Profile+Views&color=blueviolet&style=flat"/>
 </p>
 
-<h3>🎯 Currently:</h3>
-<ul>
-  <li> Contributing to GSSoC 2026</li>
-  <li> Learning System Design</li>
-  <li> Looking to collaborate on AI/ML projects</li>
-</ul>
-
 <h3>🏆 GitHub Trophies:</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AayushiMohan&theme=tokyonight&no-frame=true&row=1&column=6"/>
