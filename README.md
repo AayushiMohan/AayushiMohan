@@ -49,7 +49,7 @@
 <h3>🏅 Achievements:</h3>
 <p>
   <img src="https://img.shields.io/badge/GSSoC%202026-5%20Badges%20Earned-orange?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-Participant-blue?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon2024-Participant-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <h3>👤 Profile Views:</h3>
