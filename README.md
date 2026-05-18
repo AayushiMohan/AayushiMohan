@@ -60,3 +60,9 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=AayushiMohan&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
+<h3>📊 Contribution Activity:</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AayushiMohan&theme=tokyo-night&hide_border=true"/>
+<h3>💬 Dev Quote:</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
