@@ -45,15 +45,6 @@
 <p>
   <img src="https://img.shields.io/badge/GSSoC-2026-orange?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-<h3>🌻 Profile Views</h3>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AayushiMohan&label=Profile+Views&color=blueviolet&style=flat"/>
-</p>
-
-<h3>🏅 Achievements:</h3>
-<p>
-<img src="https://img.shields.io/badge/GSSoC%202026-5%20Badges%20Earned-orange?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
 
 <h3>🏅 Achievements:</h3>
 <p>
@@ -61,21 +52,10 @@
   <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-Participant-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<h3>🏅 Achievements:</h3>
-<ul>
-  <li>🥇 <b>GSSoC 2026</b> — Open Source Contributor | 5 Badges Earned</li>
-  <li>🚀 <b>Smart India Hackathon</b> — Team Lead | Led a team of 6 | Built a Tourism Website</li>
-</ul>
-
-<h3>🏅 GSSoC 2026 Badges:</h3>
-<p>
-  <img src="https://img.shields.io/badge/First%20Steps-GSSoC%202026-blue?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Discord%20Verified-GSSoC%202026-7289da?style=for-the-badge&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Profile%20Complete-GSSoC%202026-green?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Bounty%20Hunter-GSSoC%202026-orange?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Code%20Warrior-GSSoC%202026-red?style=for-the-badge&logo=github"/>
+<h3>🌻 Profile Views</h3>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AayushiMohan&label=Profile+Views&color=blueviolet&style=flat"/>
 </p>
-
 <h3>🏆 GitHub Trophies:</h3>
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=AayushiMohan&theme=tokyonight&no-frame=true&row=1&column=6"/>
