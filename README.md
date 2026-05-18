@@ -54,7 +54,7 @@
 </p>
 <ul>
   <li><b>GSSoC 2026</b> — Open Source Contributor | 5 Badges Earned</li>
-  <li><b>Smart India Hackathon 2024</b> — Participant | Team Lead | Built Tourism Website</li>
+  <li><b>Smart India Hackathon 2024</b> — Participant | Team Lead | Built Tourism Website with a Chatbot Assistant</li>
   <li><b>Research Paper Accepted</b> — AI Driven Intrusion Detection Systems Using Deep Learning | IJARESM | Impact Factor: 9.175</li>
 </ul>
 <h3>Profile Views:</h3>
