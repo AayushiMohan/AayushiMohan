@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-Participant-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<h3>🌻 Profile Views</h3>
+<h3>👤 Profile Views</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AayushiMohan&label=Profile+Views&color=blueviolet&style=flat"/>
 </p>
