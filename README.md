@@ -55,6 +55,18 @@
 <img src="https://img.shields.io/badge/GSSoC%202026-5%20Badges%20Earned-orange?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+<h3>🏅 Achievements:</h3>
+<p>
+  <img src="https://img.shields.io/badge/GSSoC%202026-5%20Badges%20Earned-orange?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-Participant-blue?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<h3>🏅 Achievements:</h3>
+<ul>
+  <li>🥇 <b>GSSoC 2026</b> — Open Source Contributor | 5 Badges Earned</li>
+  <li>🚀 <b>Smart India Hackathon</b> — Team Lead | Led a team of 6 | Built a Tourism Website</li>
+</ul>
+
 <h3>🏅 GSSoC 2026 Badges:</h3>
 <p>
   <img src="https://img.shields.io/badge/First%20Steps-GSSoC%202026-blue?style=for-the-badge&logo=github"/>
