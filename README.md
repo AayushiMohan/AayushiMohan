@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Research%20Paper-IJARESM%20%7C%20IF%209.175-green?style=for-the-badge&logo=academia&logoColor=white"/>
 </p>
 <ul>
-  <li><b>GSSoC 2026</b> — Open Source Contributor | 5 Badges Earned</li>
+  <li><b>GSSoC 2026</b> — Open Source Contributor | 8 Badges Earned</li>
   <li><b>Smart India Hackathon 2024</b> — Participant | Team Lead | Built Tourism Website with a Chatbot Assistant</li>
   <li><b>Research Paper Accepted</b> — AI Driven Intrusion Detection Systems Using Deep Learning | IJARESM | Impact Factor: 9.175</li>
 </ul>
