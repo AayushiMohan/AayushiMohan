@@ -64,7 +64,8 @@
 
 <h3>🏆 GitHub Trophies:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AayushiMohan&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AayushiMohan&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AayushiMohan&theme=tokyonight" />
 </p>
 
 <h3>Contribution Activity:</h3>
