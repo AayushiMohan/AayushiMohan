@@ -61,10 +61,12 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AayushiMohan&label=Profile+Views&color=blueviolet&style=flat"/>
 </p>
+
 <h3>🏆 GitHub Trophies:</h3>
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=AayushiMohan&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AayushiMohan&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
 </p>
+
 <h3>Contribution Activity:</h3>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AayushiMohan&theme=tokyo-night&hide_border=true"/>
 <h3>💬 Dev Quote:</h3>
