@@ -48,7 +48,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AayushiMohan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AayushiMohan&theme=radical&row=2&column=4" />
 </p>
 
 <h3>Achievements:</h3>
