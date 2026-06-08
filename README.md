@@ -46,6 +46,11 @@
   <img src="https://img.shields.io/badge/GSSoC-2026-orange?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+<div align="center">
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=AayushiMohan&theme=algolia&no-frame=true&row=1&column=7" />
+</div>
+
 <h3>Achievements:</h3>
 <p>
   <img src="https://img.shields.io/badge/GSSoC%202026-5%20Badges%20Earned-orange?style=for-the-badge&logo=github&logoColor=white"/>
