@@ -1,5 +1,5 @@
 <h2>⚡Byte by byte, Creating my space!</h2>
-<p> Full Stack | AI & ML | GSSoC 2026 Contributor </p>
+<p> Full Stack | AI & ML | GSSoC 2026 Open Source Contributor </p>
 <p>Hi, I'm Aayushi, I enjoy building new projects, finding solutions to problems, and understanding how things work behind the scenes. Exploring full-stack development and applying machine learning concepts to practical applications, while keeping up with the evolving AI landscape.</p>
 
 <h3>👤My Portfolio:</h3>
@@ -41,22 +41,12 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AayushiMohan&theme=tokyonight&hide_border=true)
 
-<h3>Open Source:</h3>
-<p>
-  <img src="https://img.shields.io/badge/GSSoC-2026-orange?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
 <h3>Achievements:</h3>
 <p>
-  <img src="https://img.shields.io/badge/GSSoC%202026-5%20Badges%20Earned-orange?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSSoC%202026-8%20Badges%20Earned-orange?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Smart%20India%20Hackathon%202024-Participant-blue?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Research%20Paper-IJARESM%20%7C%20IF%209.175-green?style=for-the-badge&logo=academia&logoColor=white"/>
 </p>
-<ul>
-  <li><b>GSSoC 2026</b> — Open Source Contributor | 8 Badges Earned</li>
-  <li><b>Smart India Hackathon 2024</b> — Participant | Team Lead | Built Tourism Website with a Chatbot Assistant</li>
-  <li><b>Research Paper Accepted</b> — AI Driven Intrusion Detection Systems Using Deep Learning | IJARESM | Impact Factor: 9.175</li>
-</ul>
 <h3>Profile Views:</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AayushiMohan&label=Profile+Views&color=blueviolet&style=flat"/>
