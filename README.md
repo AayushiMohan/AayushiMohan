@@ -1,5 +1,5 @@
 <h2>⚡Byte by byte, Creating my space!</h2>
-<p> Full Stack | AI & ML | GSSoC 2026 Open Source Contributor </p>
+<p> Full-Stack Developer | AI & ML | GSSoC 2026 Open Source Contributor </p>
 <p>Hi, I'm Aayushi, I enjoy building new projects, finding solutions to problems, and understanding how things work behind the scenes. Exploring full-stack development and applying machine learning concepts to practical applications, while keeping up with the evolving AI landscape.</p>
 
 <h3>💻Tech Stack:</h3>
