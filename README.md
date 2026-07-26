@@ -14,9 +14,7 @@
   <a href="https://www.linkedin.com/in/aayushimohan/"target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
   </a>
-</p>
-<p>
-  <a href="mailto:aayushimohan118@gmail.com">
+   <a href="mailto:aayushimohan118@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-black?style=for-the-badge&logo=maildotru&logoColor=white"/>
   </a>
 </p>
